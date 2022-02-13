@@ -1,0 +1,33 @@
+button {
+  border-bottom-color: #7b7b7b;
+  border-left-color: white;
+  border-right-color: #7b7b7b;
+  border-style: solid;
+  border-top-color: white;
+  border-width: 4px;
+
+  font-size: 50px;
+}
+
+.Head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  width: 100%;
+  padding-bottom: 10px;
+}
+  
+.Face {
+  min-width: 50px;
+  height: 50px;
+  font-size: 30px;
+}
+  
+.NumberDisplay {
+  height: 50px;
+  background-color: black;
+  font-size: 40px;
+  color: red;
+  font-family: monospace;
+}

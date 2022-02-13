@@ -1,0 +1,11 @@
+.App {
+  border-bottom-color: #999;
+  border-left-color: white;
+  border-right-color: #999;
+  border-style: solid;
+  border-top-color: white;
+  border-width: 4px;
+
+  background: #aaa;
+  padding: 16px;
+}
